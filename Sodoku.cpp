@@ -1,17 +1,9 @@
-/***********************************************************************        
-* Program:                                                                      
-*    Project 12, Sudoku pt1                                                
-*    Brother Grimmett, CS124                                                    
+/***********************************************************************                                                       
 * Author:                                                                       
 *    Marek Swan                                                                 
 * Summary:
-*    This program takes 10 values from a user and stores in an
-*    array which then adds the together and gains an average. This
-*    will now ignore any -1 values
-*                                    
-*    Estimated:  2.0 hrs                                                        
-*    Actual:     0.5 hrs                                                        
-*      Just working out the alogorthim.
+*    This Program opens up a file with a table preset with values
+*    then allows the user to make guesses and see current results.
 ************************************************************************/
 #include <fstream>
 #include <iostream>
